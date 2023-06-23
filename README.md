@@ -4,6 +4,12 @@
 
 图书价值 = 内容品质 + 版本价值 + 社会评价 + 内在动机
 
+## 安装依赖
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 使用
 
 > 目前实现了获取书籍豆瓣、GoodReads 评分的功能。
